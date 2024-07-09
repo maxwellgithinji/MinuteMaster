@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MinuteMaster"
 include(":app")
- 
+include(":onboarding")
